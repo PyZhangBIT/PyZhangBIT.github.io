@@ -1,0 +1,8 @@
+title: 不屈不挠，不骄不躁；严于律己，宽以待人
+description: 
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
