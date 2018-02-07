@@ -2,7 +2,7 @@ title: 张朋艺的博客
 description: 不屈不挠！不骄不躁！
 google_analytics: 
 show_downloads: False
-theme: jekyll-theme-architect
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
