@@ -1,9 +1,10 @@
-# 博客目录索引
+# 博客目录
 
 
 
 ---
 ##**DSP开发技术**
+
 ###1. [【CSDN博客】DSP开发技术博文][1]
 ###2. [【DSP开发】如何获得浮点型的数据的IEEE的表示][2]
 
@@ -68,7 +69,7 @@
 
 
   [1]: http://blog.csdn.net/LG1259156776/article/category/5630231
-  [2]: http://zhanghuty.github.io/DSPTest/
+  [2]: http://pyzhangbit.github.io/DSPTest/
   [3]: http://blog.csdn.net/LG1259156776/article/category/5829675
   [4]: http://blog.csdn.net/LG1259156776/article/category/5627455
   [5]: http://blog.csdn.net/LG1259156776/article/category/5829693
@@ -84,7 +85,7 @@
   [15]: http://blog.csdn.net/LG1259156776/article/category/3099105
   [16]: http://blog.csdn.net/LG1259156776/article/category/5829673
   [17]: http://blog.csdn.net/LG1259156776/article/category/5631441
-  [18]: http://zhanghuty.github.io/ReadingNote1
+  [18]: http://pyzhangbit.github.io/ReadingNote1
   [19]: http://blog.csdn.net/LG1259156776/article/category/5637069
   
   
@@ -93,4 +94,4 @@
 
 ----------
 
-> ###2015-10-21更新 张朋艺
+> ###2018-02-07更新 张朋艺
